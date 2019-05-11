@@ -2,11 +2,9 @@
 
 ### 微软发布一款全新终端
 
-Windows Terminal是一个全新的终端应用程序，适用于命令行工具和命令提示符，PowerShell和WSL等命令行的用户。支持多个标签，更好的文字渲染。
+Windows Terminal是一个全新的终端应用程序，适用于命令行工具和命令提示符，PowerShell和WSL等命令行的用户。支持多标签，更好的文字渲染。
 
-Windows终端将通过Windows 10中的Microsoft Store提供，并将定期更新，确保您始终保持最新状态，并能够以最少的工作量享受最新功能和最新改进。
-
-该软件开源在github上，发布将近一天时间已有2万多用户star。
+该软件开源在github上，发布将近一天时间已有2万多用户star
 
 原文链接：[Windows终端介绍](https://devblogs.microsoft.com/commandline/introducing-windows-terminal/ "Windows终端介绍")
 
@@ -14,7 +12,7 @@ Windows终端将通过Windows 10中的Microsoft Store提供，并将定期更新
 
 ### 谷歌推出Jetpack Compose
 
-Google I/O 2019开发者大会上，宣布推出[Jetpack Compose](https://developer.android.com/jetpack/compose?authuser=1 "Jetpack Compose官方文档")的第一个预览版，这是一个新的开源UI工具包，适用于想要使用类似于React Native和Vue.js的反应式编程模型的Kotlin开发人员。
+Google I/O 2019开发者大会上，Google宣布推出[Jetpack Compose](https://developer.android.com/jetpack/compose?authuser=1 "Jetpack Compose官方文档")的第一个预览版，这是一个新的开源UI工具包，适用于想要使用类似于React Native和Vue.js的反应式编程模型的Kotlin开发人员。
 
 Jetpack Compose是一个非捆绑式工具包，是Google为Android开发人员提供的整体Android Jetpack软件组件的一部分，不要求使用任何其他Jetpack组件。
 
@@ -24,10 +22,9 @@ Jetpack Compose是一个非捆绑式工具包，是Google为Android开发人员�
 
 ### Kotlin成为Android开发首选语言
 
-谷歌今天宣布，Kotlin编程语言现在是Android应用程序开发人员的首选语言。
+谷歌宣布，Kotlin编程语言现在是Android应用程序开发人员的首选语言。
 
-谷歌同时宣布，今后将以Kotlin为先，许多新的Jetpack API和功能将首先在Kotlin中提供。
-建议开发者应该首选kotlin；因为Kotlin编写的代码更简短，易于测试和可维护。
+谷歌同时宣布，今后将以Kotlin为先，许多新的Jetpack API和功能将首先在Kotlin中提供。 建议开发者应该首选kotlin；因为Kotlin编写的代码更简短，易于测试和可维护。
 
 原文链接：[Kotlin成为Android开发首选语言](https://techcrunch.com/2019/05/07/kotlin-is-now-googles-preferred-language-for-android-app-development/ "Kotlin成为Android开发首选语言")
 
@@ -67,17 +64,13 @@ SQL发展之初是针对没有计算机编程培训的用户设计的，SQL语�
 
 ### 2. 是时候用AV1视频替换GIF了！
 
-GIF占用了大量的空间（通常是数兆字节！）。如果您的目标是提高网站的加载性能，那么GIF需要被淘汰！但那你怎么有动人的照片呢？答案是视频。在大多数情况下，将获得更好的质量以及近节省50-90％的尺寸大小！
+GIF占用了大量的空间（通常是数兆字节！）。如果您的目标是提高网站的加载性能，那么GIF需要被淘汰！但那你怎么展示动人的照片呢？答案是视频。在大多数情况下，将获得更好的质量以及近节省50-90％的尺寸大小！
 
 技术向前发展，我们需要随之而动。到目前为止，已经有两种编解码器可供所有浏览器和平台广泛采用，用于编码视频：
 
 1. H.264 - 于2003年推出，是当今使用最广泛的编解码器
-2. VP9 - 在2013年推出，与H.264大多数时间相比，压缩率提高了50％，但根据[reddit上的讨论(https://www.reddit.com/r/AV1/comments/bjzqly/its_time_to_replace_gifs_with_av1_video/emcohnq/ "关于reddit的讨论")，有时它会很糟糕。
-
+2. VP9 - 在2013年推出，与H.264大多数时间相比，压缩率提高了50％，根据reddit上的讨论，有时它会很糟糕。
 
 我们的目标是将庞大的GIF缩小到尽可能缩小尺寸大小，以改善网页加载时间。我们讨论的AV1与VP9相比，可以实现约30％的压缩。所以，比H.264好大约80％。
 
-#### H.264
-
-
-原文链接：[是时候用AV1视频替换GIF了](https://www.singhkays.com/blog/its-time-replace-gifs-with-av1-video/ "是时候用AV1视频替换GIF了")
+原文链接：[是时候用AV1视频替换GIF了](https://www.singhkays.com/blog/its-time-replace-gifs-with-av1-video/media/scene1/x264_200k.mp4 "是时候用AV1视频替换GIF了")
