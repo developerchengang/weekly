@@ -87,6 +87,26 @@ Firefox的最新支持夜间模式以及新的渲染架构。
 
 ## 教程
 
+### Vue.js和SEO：如何优化响应式网站
+
+使用响应式框架创建的网站是否会被Google和其他搜索引擎索引？
+
+原文：[Vue.js和SEO：如何优化响应式网站](https://www.smashingmagazine.com/2019/05/vue-js-seo-reactive-websites-search-engines-bots/ "Vue.js和SEO：如何优化响应式网站")
+
+### Three.js基础知识
+
+这是关于three.js的系列文章中的第一篇文章。 Three.js是一个3D库，试图让它尽可能容易地在网页上实现3D内容。
+
+原文：[Three.js基础知识](https://threejsfundamentals.org/threejs/lessons/threejs-fundamentals.html "Three.js基础知识")
+
+### 为什么要用WebP图片
+
+<img src="https://res.cloudinary.com/ireaderinokun/image/upload/v1542636766/bitsofcode/comparison.webp"/>
+
+WebP是由Google在2010年开发的一种图像格式。它的创建是为了替代PNG和JPG等格式，在保持相似图像质量的同时缩小文件大小。
+
+原文：[为什么要用WebP图片](https://bitsofco.de/why-and-how-to-use-webp-images-today/ "为什么要用WebP图片")
+
 ### 权威的Node.js手册
 
 本手册是Node.js的入门指南，Node.js是服务器端JavaScript运行时环境。
@@ -108,6 +128,12 @@ Firefox的最新支持夜间模式以及新的渲染架构。
 这是一个每个人都可以用来了解前端开发实践的指南。它概括并概述了前端工程的实践：如何学习它以及在2019年实践它时使用的工具。有pdf以及epub版本
 
 原文：[前端开发人员手册2019](https://frontendmasters.com/books/front-end-handbook/2019/ "前端开发人员手册2019")
+
+### 动画手册
+
+动画手册不仅可以为您制作动画，还可以为您的客户制作出色的，更直观的数字产品界面。
+
+原文：[动画手册](https://www.designbetter.co/animation-handbook/purpose "动画手册")
 
 ## 学习资料
 
@@ -238,6 +264,11 @@ Z-index是一个CSS属性，允许将图层中的元素放在彼此的顶部。�
 
 原文：[Organic Blending](https://codepen.io/team/keyframers/pen/RmLjzQ?utm_source=CSS-Weekly&utm_campaign=Issue-364&utm_medium=web "Organic Blending")
 
+### CSS可以做这些事
+
+CSS可以做的事情列表
+
+原文：[CSS可以做这些事](https://dev.to/ananyaneogi/css-can-do-that-18g7 "CSS可以做这些事")
 
 
 ## 工具
@@ -246,7 +277,31 @@ Z-index是一个CSS属性，允许将图层中的元素放在彼此的顶部。�
 
 原文：[2019年5月，43个最受欢迎的GitHub JS存储库](https://dev.to/iriskatastic/43-most-popular-github-js-repositories-in-may-2019-dhn?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email "2019年5月，43个最受欢迎的GitHub JS存储库")
 
+### Tornis介绍
 
+一个JavaScript库，用于跟踪鼠标位置，窗口大小，滚动位置等
+
+原文：[Tornis介绍](https://tornis.robbowen.digital/ "Tornis介绍")
+
+### Rough.js
+
+<img src="https://roughjs.com/images/main/m6.png"/>
+
+Rough.js是一个小型（约8.5kB gzip）图形库，可以让你以粗略的手绘风格绘制。该库定义了绘制直线，曲线，圆弧，多边形，圆和椭圆的基元。它还支持绘制SVG路径。
+
+原文：[Rough.js](https://roughjs.com/ "Rough.js")
+
+### reveal.js
+
+使用HTML轻松创建精美PPT效果的框架
+
+原文：[reveal.js](https://github.com/hakimel/reveal.js "reveal.js")
+
+### embetty
+
+在你的博客嵌入推文以及视频
+
+原文：[embetty](https://github.com/heiseonline/embetty "embetty")
 
 ## 讨论
 
