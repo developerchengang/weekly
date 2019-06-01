@@ -4,15 +4,17 @@
 
 更小的捆绑包，CLI新的API，差异加载
 
+原文：[Angular 8发布](https://blog.angular.io/version-8-of-angular-smaller-bundles-cli-apis-and-alignment-with-the-ecosystem-af0261112a27?gi=2f3222b6f822 "Angular 8发布")
+
 ### TypeScript 3.5发布
 
-改进的性能和增量编译和Omit帮助类型
+改进性能和增量编译以及Omit帮助类型
 
-原文：[ypeScript 3.5发布](https://devblogs.microsoft.com/typescript/announcing-typescript-3-5/ "ypeScript 3.5发布")
+原文：[TypeScript 3.5发布](https://devblogs.microsoft.com/typescript/announcing-typescript-3-5/ "TypeScript 3.5发布")
 
 ### Chrome成为全民公敌
 
-Chrome从颠覆者变成全民公敌，阻碍打压竞争对手。
+Chrome从颠覆者变成全民公敌，阻碍、打压竞争对手。
 
 原文：[Chrome成为全民公敌](https://www.bloomberg.com/news/articles/2019-05-28/google-s-chrome-becomes-web-gatekeeper-and-rivals-complain?utm_source=hackernewsletter&utm_medium=email&utm_term=featured "Chrome成为全民公敌")
 
@@ -50,13 +52,13 @@ Chrome从颠覆者变成全民公敌，阻碍打压竞争对手。
 
 ### 声明式UI
 
-很多人不理为什么要推出Compose，毕竟Android平台原生UI工具包已经推出10多年。它很方便，代码和布局分离。这里有一些视频，你可以试图从中理解为什么需要声明式UI。
+很多人不理为什么要推出Compose，毕竟Android平台原生UI工具包已经推出10多年。它很方便，代码和布局分离。这里有一些视频，也许可以从中理解为什么需要声明式UI。
 
 原文：[声明式UI](http://intelligiblebabble.com/content-on-declarative-ui/　"声明式UI")
 
 ### 探索CameraX
 
-Camera2很好但复杂-使用CameraX解决了这些问题。
+Camera2很好但复杂，使用CameraX可以解决了这些问题。
 
 原文：[探索CameraX](https://joebirch.co/2019/05/15/exploring-camerax-on-android-camera-view/　"探索CameraX")
 
@@ -68,7 +70,7 @@ Chips是Material一个组件，本文介绍Chips使用。
 
 ### Ktor
 
-Ktor是用于构建异步服务器和客户端的新框架。基于Kotlin协程。支持多平台项目，可以将其用于Android，iOS或Javascript的项目。
+Ktor是用于构建异步请求的新框架。基于Kotlin协程。支持多平台，可以应用于Android，iOS或Javascript的项目。
 
 原文：[Ktor](https://www.amryousef.me/android-ktor　"Ktor")
 
@@ -89,7 +91,7 @@ OkHttp４.0采用Kotlin纯Kotlin编写，并且兼容3.0。迁移到Kotlin代码
 
 ### 2019年了我还在用JQuery
 
-曾经的JQuery如日中天。现如今，前端开发已经是Vue、Rect、Angular的天下了。甚至github宣布从它们的代码中完全移除JQuery。那么我们还有必要使用JQuery吗？
+曾经的JQuery如日中天。现如今，前端开发已经是Vue、Rect、Angular的天下了。github甚至宣布从它们的代码中完全移除JQuery。那么我们还有必要使用JQuery吗？
 
 原文：[2019年了我还在用JQuery](https://arp242.net/jquery.html "2019年了我还在用JQuery")
 
@@ -145,7 +147,7 @@ Vue功能的简洁概述，以及如何使用Rect的Hooks改写
 
 ### DataDog
 
-性能监控，日志和跟踪的全栈平台
+性能监控，日志跟踪的全栈平台
 
 链接：[DataDog](https://www.datadoghq.com/ts/tshirt-landingpage/?utm_source=Advertisement&utm_medium=Hackernewsletter&utm_campaign=HackernewsletterNative-Tshirt　"DataDog")
 
