@@ -29,10 +29,15 @@
 - 再伟大的团队也会产生少量的低质量的代码，但是通过保持内部质量，可以控制
 - 尽量减少低质量的代码，团队才能够减少工作量，同时有更多时间和成本去添加新功能
 
-
 链接：[是否值得花时间提高软件质量？](https://martinfowler.com/articles/is-quality-worth-cost.html "是否值得花时间提高软件质量？")
 
 ## 新闻
+
+### SwiftUI
+
+SwiftUI一全新简洁的UI构建工具适用于Apple所有平台
+
+链接：[SwiftUI](https://developer.apple.com/xcode/swiftui/ "SwiftUI")
 
 ### Koin发布2.0版本
 
@@ -47,3 +52,62 @@ KOIN实用轻量级依赖注入框架
 为Python开发者准备的Kotlin教程，如果你是Java开发者建议阅读官方文档
 
 链接：[Kotlin教程](https://khan.github.io/kotlin-for-python-developers/ "Kotlin教程")
+
+## 前端
+
+### JavaScript整洁代码 - 最佳实践
+
+“Uncle Bob”启发的技巧可能会帮助你思考如何命名和构建代码
+
+链接：[JavaScript整洁代码 - 最佳实践](http://pop.frontendweekly.co/PsVdT9?utm_campaign=Frontend%2BWeekly&utm_medium=email&utm_source=Frontend_Weekly_154 "JavaScript整洁代码 - 最佳实践")
+
+### React hooks
+
+关于React Hooks基础知识的简短教程
+
+链接：[React hooks](https://github.com/httpJunkie/telerik-blogs/blob/master/kendoreact-tip-of-the-day-frontend-focus.md "React hooks")
+
+### 网页排版
+
+移动网页设计中排版参考指南
+
+链接：[网页排版](https://www.smashingmagazine.com/2018/06/reference-guide-typography-mobile-web-design/ "网页排版")
+
+### 使用Svelte 3.0进行真正的响应式编程
+
+Svelte不是库，也不是一个框架，它是一个编译器。
+
+链接：[使用Svelte 3.0进行真正的响应式编程](https://blog.logrocket.com/truly-reactive-programming-with-svelte-3-0-321b49b75969/?pix=z3_0_0 "使用Svelte 3.0进行真正的响应式编程")
+
+## 工具
+
+### IP地理位置API
+
+免费实时的IP地理位置API。通过IPv4或IPv6地址获取所在国家/地区的详细信息，包括位置，货币，电话号码等信息
+
+链接：[IP地理位置API](https://ipgeolocationapi.com/ "IP地理位置API")
+
+### Coder
+
+Coder是一个基于于Visual Studio Code的开源远程开发环境
+
+链接：[Coder](https://coder.com/ "Coder")
+
+### Vim.Wasm
+
+Vim编辑器移植到WebAssembly
+
+链接：[Vim.Wasm](https://rhysd.github.io/vim.wasm/ "Vim.Wasm")
+
+### FireQL
+
+一个用于测试/调试GraphQL工具
+
+链接：[FireQL](https://fireql.dev/?url=https%3A%2F%2Fapi.spacex.land%2Fgraphql&ref=producthunt "FireQL")
+
+### SQLGate
+
+一个用于数据库的智能IDE
+
+链接：[SQLGate](https://www.sqlgate.com/ "SQLGate")
+
