@@ -1,113 +1,211 @@
-## 摘文
-
-### 是否值得花时间提高软件质量？
-
-软件质量划分为外部 （例如UI和功能缺陷）和内部（代码架构）。
-
-假设，丽贝卡和我写一个跟踪和预测航班延误的应用程序。我们的应用程序都具有相同的基本功能，同样美观友好的用户界面，几乎没有任何缺陷。唯一的区别是她的内部源代码整齐有序，而我的代码却是混乱不堪。还有一个区别：我以6美元的价格出售我的产品，她的价格是10美元。
-
-用户无法看到软件的内部结构，也无法判断它的好坏。为什么要为看不见摸不着的东西付出更多金钱？
-
-为什么软件开发人员应该花时间和精力来提高软件的内部质量？程序员大部分时间都在修改代码。即使新功能，编程也是围绕现有代码完成的。当我想为添加新功能时，第一个任务是弄清楚这个功能的流程，然后需要考虑添加新功能会不会对现有功能产生影响。
-
-衡量一个内部质量好坏一个重要特点是更容易弄清楚程序的工作原理，这样就可以清楚添加新功能。如果合理的划分软件模块，就不必阅读所有代码，只需要快速阅读几个模块。将精力放在明确的命名上，我可以快速了解代码的各个部分，而不必赘述细节。混乱的代码会增加时间成本去理解内部结构，也会增加犯错误的可能性。如果出现错误，必须花时间去了解是什么导致故障是以及如何去解决它。如果没有在开发过程中发现，等到错误暴露给客户，就需要花更多的时间来修复。
-
-快速的添加新功能不考虑代码质量，违背了程序模块化结构，可能增加缺陷。如果采取快速开发，今天可能很快完成任务，但是在未来几周和几个月里，处理相关代码时会降低效率。如果团队其他成员也做出相同的决定。那么，一个易于修改的功能原本只需要几个小时，现在可能需要花费数周时间完成。
-
-许多人认为只有开发团队粗心大意时才会犯错误，其实即使是最优秀的团队也会产生一些缺陷。
-
-许多人，包括软件行业的一些人，将构建软件比作建造大教堂或摩天大楼 - 这就是为什么我们称高级程序员为“架构师”？但构建软件不同于真实世界。软件的客户只是粗略地了解他们想要在产品中需要哪些功能，等到构建软件时才了解需要具体需要哪些功能 - 特别是一旦早期版本发布给用户。
-
-软件开发行业的高速发展，总是创造出新颖的软件技术。用于构建软件的开发语言，库和平台每隔几年甚至每个月就会发生重大变化。常常听到某个团队花了一年甚至几年时间的构建项目。到后来发现技术更不上需求的变化，导致开发进度缓慢，开发团队不得不重新重构整个项目。
-
-好的团队产生少量的低质量的代码，但是他们会持续不断重构代码已满足不断新的需求。差的技术团队不关心代码质量，对低质量代码视而不见，盲目无章堆新功能，导致整个项目一步一步陷入泥潭，甚至毁灭整个项目。一个常见的比喻就是清理厨房。你做饭时弄脏，但是如果你不快速清理，时间久脏东西就很难去除，所有肮脏的东西妨碍了烹饪下一道菜。
-
-总结
-
-- 忽视内部质量会快速完成任务同时也可能导致更多缺陷
-- 缺陷越多会降低功能开发进度
-- 再伟大的团队也会产生少量的低质量的代码，但是通过保持内部质量，可以控制
-- 尽量减少低质量的代码，团队才能够减少工作量，同时有更多时间和成本去添加新功能
-
-链接：[是否值得花时间提高软件质量？](https://martinfowler.com/articles/is-quality-worth-cost.html "是否值得花时间提高软件质量？")
-
 ## 新闻
 
-### SwiftUI
+### Angular 8发布
 
-SwiftUI一全新简洁的UI构建工具适用于Apple所有平台
+更小的捆绑包，CLI新的API，差异加载
 
-链接：[SwiftUI](https://developer.apple.com/xcode/swiftui/ "SwiftUI")
+原文：[Angular 8发布](https://blog.angular.io/version-8-of-angular-smaller-bundles-cli-apis-and-alignment-with-the-ecosystem-af0261112a27?gi=2f3222b6f822 "Angular 8发布")
 
-### Koin发布2.0版本
+### TypeScript 3.5发布
 
-KOIN实用轻量级依赖注入框架
+改进性能和增量编译以及Omit帮助类型
 
-链接：[Koin发布2.0版本](https://medium.com/koin-developers/ready-for-koin-2-0-2722ab59cac3 "Koin发布2.0版本")
+原文：[TypeScript 3.5发布](https://devblogs.microsoft.com/typescript/announcing-typescript-3-5/ "TypeScript 3.5发布")
 
-## 教程
+### Chrome成为全民公敌
 
-### Kotlin教程
+Chrome从颠覆者变成全民公敌，阻碍、打压竞争对手。
 
-为Python开发者准备的Kotlin教程，如果你是Java开发者建议阅读官方文档
+原文：[Chrome成为全民公敌](https://www.bloomberg.com/news/articles/2019-05-28/google-s-chrome-becomes-web-gatekeeper-and-rivals-complain?utm_source=hackernewsletter&utm_medium=email&utm_term=featured "Chrome成为全民公敌")
 
-链接：[Kotlin教程](https://khan.github.io/kotlin-for-python-developers/ "Kotlin教程")
+### Chrome将限制广告拦截插件
 
-## 前端
+很多人上网都会给浏览器安装广告拦截插件。报道称，Chrome将在Manifest V3有所改变，限制企业用户使用广告拦截插件。
 
-### JavaScript整洁代码 - 最佳实践
+原文：[Chrome将限制广告拦截插件](https://9to5google.com/2019/05/29/chrome-ad-blocking-enterprise-manifest-v3/?utm_source=hackernewsletter&utm_medium=email&utm_term=featured "Chrome将限制广告拦截插件")
 
-“Uncle Bob”启发的技巧可能会帮助你思考如何命名和构建代码
+### 使用Firefox阻止指纹识别
 
-链接：[JavaScript整洁代码 - 最佳实践](http://pop.frontendweekly.co/PsVdT9?utm_campaign=Frontend%2BWeekly&utm_medium=email&utm_source=Frontend_Weekly_154 "JavaScript整洁代码 - 最佳实践")
+如果你想知道为什么一直看到同样的广告，答案可能是指纹识别。
 
-### React hooks
+原文：[使用Firefox阻止指纹识别](https://blog.mozilla.org/firefox/how-to-block-fingerprinting-with-firefox/?utm_source=hackernewsletter&utm_medium=email&utm_term=featured "使用Firefox阻止指纹识别")
 
-关于React Hooks基础知识的简短教程
+## Android
 
-链接：[React hooks](https://github.com/httpJunkie/telerik-blogs/blob/master/kendoreact-tip-of-the-day-frontend-focus.md "React hooks")
+### 在Kotlin中使用RxAndroid
 
-### 网页排版
+通过Kotlin了解如何使用RxJava和RxAndroid
 
-移动网页设计中排版参考指南
+原文：[在Kotlin中使用RxAndroid](https://www.raywenderlich.com/2071847-reactive-programming-with-rxandroid-in-kotlin-an-introduction "在Kotlin中使用RxAndroid")
 
-链接：[网页排版](https://www.smashingmagazine.com/2018/06/reference-guide-typography-mobile-web-design/ "网页排版")
+### Kotlin Lambda表达式入门
 
-### 使用Svelte 3.0进行真正的响应式编程
+通过Kotlin为Android平台提供的lambda表达式
 
-Svelte不是库，也不是一个框架，它是一个编译器。
+原文：[Kotlin Lambda表达式入门](https://www.raywenderlich.com/2268700-introduction-to-kotlin-lambdas-getting-started "Kotlin Lambda表达式入门")
 
-链接：[使用Svelte 3.0进行真正的响应式编程](https://blog.logrocket.com/truly-reactive-programming-with-svelte-3-0-321b49b75969/?pix=z3_0_0 "使用Svelte 3.0进行真正的响应式编程")
+### 手势导航-概述
+
+2019 Google I/O Android宣布是在Android Q上引入手势导航。看看会不会影响到你的app。
+
+原文：[手势导航-概述](https://blog.stylingandroid.com/gesture-navigation-overview/ "手势导航-概述")
+
+### 声明式UI
+
+很多人不理为什么要推出Compose，毕竟Android平台原生UI工具包已经推出10多年。它很方便，代码和布局分离。这里有一些视频，也许可以从中理解为什么需要声明式UI。
+
+原文：[声明式UI](http://intelligiblebabble.com/content-on-declarative-ui/　"声明式UI")
+
+### 探索CameraX
+
+Camera2很好但复杂，使用CameraX可以解决了这些问题。
+
+原文：[探索CameraX](https://joebirch.co/2019/05/15/exploring-camerax-on-android-camera-view/　"探索CameraX")
+
+### Chips
+
+Chips是Material一个组件，本文介绍Chips使用。
+
+原文：[Chips](https://medium.com/over-engineering/hands-on-with-material-components-for-android-chips-21dc67c8b956　"Chips")
+
+### Ktor
+
+Ktor是用于构建异步请求的新框架。基于Kotlin协程。支持多平台，可以应用于Android，iOS或Javascript的项目。
+
+原文：[Ktor](https://www.amryousef.me/android-ktor　"Ktor")
+
+
+### OkHttp４.0
+
+OkHttp４.0采用Kotlin纯Kotlin编写，并且兼容3.0。迁移到Kotlin代码量减少了，但是编译时间比Java变长，同时二进制文件也变大了。
+
+原文：[OkHttp４.0](https://publicobject.com/2019/05/13/metrics-for-okhttps-kotlin-upgrade/　"OkHttp４.0")
+
+### RxDogTag
+
+使用RxJava很方便，但是如果处理不当抛出异常很难跟踪。RxDogTag可以定位异常源头。
+
+原文：[RxDogTag](https://github.com/uber/RxDogTag　"RxDogTag")
+
+## JavaScript
+
+### 2019年了我还在用JQuery
+
+曾经的JQuery如日中天。现如今，前端开发已经是Vue、Rect、Angular的天下了。github甚至宣布从它们的代码中完全移除JQuery。那么我们还有必要使用JQuery吗？
+
+原文：[2019年了我还在用JQuery](https://arp242.net/jquery.html "2019年了我还在用JQuery")
+
+### Zdog
+
+JavaScript Canvas和SVG 3D引擎
+
+原文：[Zdog](https://zzz.dog/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav "Zdog")
+
+### Papa Parse
+
+功能强大的浏览器内CSV解析器
+
+原文：[Papa Parse](https://www.papaparse.com/ "Papa Parse")
+
+### Vue开发者的Rect
+
+Vue功能的简洁概述，以及如何使用Rect的Hooks改写
+
+原文：[Vue开发者的Rect](https://sebastiandedeyne.com/react-for-vue-developers/ "Vue开发者的Rect")
+
+### 用数组减少计算平均值的五种方法
+
+数组迭代方法就像一个“网关药物”。让许多人迷上了函数式编程。因为它们非常有用。使得数组方法都很容易理解。
+
+原文：[用数组减少计算平均值的五种方法](https://jrsinclair.com/articles/2019/five-ways-to-average-with-js-reduce/ "用数组减少计算平均值的五种方法")
+
+### JSON.stringify
+
+简要介绍一下它是如何使用的，以及它可能引发的一些错误。
+
+原文：[JSON.stringify](http://thecodebarbarian.com/the-80-20-guide-to-json-stringify-in-javascript.html "JSON.stringify")
+
+### 使用Angular构建PWA应用程序
+
+了解如何构建基于Angular的PWA并将其部署在使用Netflify的移动设备上。
+
+原文：[使用Angular构建PWA应用程序](https://blog.angularindepth.com/build-a-progressive-web-app-with-angular-bf7d66744020 "使用Angular构建PWA应用程序")
+
+### 编写简洁且可扩展的JavaScript的12个技巧
+
+好的代码一个是可扩展易于维护的。
+
+原文：[编写简洁且可扩展的JavaScript的12个技巧](https://blog.logrocket.com/12-tips-for-writing-clean-and-scalable-javascript-3ffe30abfe20/ "编写简洁且可扩展的JavaScript的12个技巧")
+
+### 面向前端开发人员的简明实用GraphQL教程
+
+一系列带视频的开源GraphQL教程。提供React，Vue，ReactNative，iOS和Android开发人员教程。
+
+原文：[面向前端开发人员的简明实用GraphQL教程](https://learn.hasura.io/ "面向前端开发人员的简明实用GraphQL教程")
 
 ## 工具
 
-### IP地理位置API
+### DataDog
 
-免费实时的IP地理位置API。通过IPv4或IPv6地址获取所在国家/地区的详细信息，包括位置，货币，电话号码等信息
+性能监控，日志跟踪的全栈平台
 
-链接：[IP地理位置API](https://ipgeolocationapi.com/ "IP地理位置API")
+链接：[DataDog](https://www.datadoghq.com/ts/tshirt-landingpage/?utm_source=Advertisement&utm_medium=Hackernewsletter&utm_campaign=HackernewsletterNative-Tshirt　"DataDog")
 
-### Coder
+### Pollen
 
-Coder是一个基于于Visual Studio Code的开源远程开发环境
+Pollen是一个出版系统，可以帮助作者制作功能齐全，美观的数字图书
 
-链接：[Coder](https://coder.com/ "Coder")
+链接：[Pollen](https://docs.racket-lang.org/pollen/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav　"Pollen")
 
-### Vim.Wasm
+### TipTap
 
-Vim编辑器移植到WebAssembly
+Vue编写富文本编辑器
 
-链接：[Vim.Wasm](https://rhysd.github.io/vim.wasm/ "Vim.Wasm")
+链接：[TipTap](https://github.com/scrumpy/tiptap　"TipTap")
 
-### FireQL
+### Pickr
 
-一个用于测试/调试GraphQL工具
+颜色选择器
 
-链接：[FireQL](https://fireql.dev/?url=https%3A%2F%2Fapi.spacex.land%2Fgraphql&ref=producthunt "FireQL")
+链接：[Pickr](https://simonwep.github.io/pickr/　"Pickr")
 
-### SQLGate
+### Puppeteer Recorder
 
-一个用于数据库的智能IDE
+Puppeteer　Recorder是Chrome插件，可记录您在浏览器上的操作并生成脚本。
 
-链接：[SQLGate](https://www.sqlgate.com/ "SQLGate")
+链接：[Puppeteer Recorder](https://github.com/checkly/puppeteer-recorder　"Puppeteer Recorder")
+
+### MQTT.js
+
+Node.js和浏览器的MQTT客户端
+
+链接：[MQTT.js](https://github.com/mqttjs/MQTT.js　"MQTT.js")
+
+### Chrome切换到Firefox
+
+Chrome目前一家独大，也越来越流氓。前不久Firefox前负责人指出Chrome，通过降低Youtube在Firefox上的用户体验等手段打压竞争对手，来迫使用户使用Chrome浏览器。选择Firefox推出一款工具可以快速从Chrome切换到Firefox。
+
+链接：[Chrome切换到Firefox](https://www.mozilla.org/en-US/firefox/switch/?utm_source=hackernewsletter&utm_medium=email&utm_term=featured　"Chrome切换到Firefox")
+
+## 文章
+
+### 制作一款经典游戏
+
+Sheep It Up！是一款经典的街机游戏，作者通过新的技术还原这款经典游戏并讲解了制作过程
+
+链接：[Sheep It Up](https://www.gamasutra.com/blogs/DoctorLudos/20171207/311143/　"Sheep It Up")
+
+## 问答
+
+### 如何让父母安全上网
+
+科技在进步，爸爸妈妈都用上了智能手机。同时，网络它不是安全的。存在大量钓鱼网站。如何让爸爸妈妈安全的上网，不被黑客攻击呢？
+
+链接：[如何让父母安全上网](https://news.ycombinator.com/item?id=20015775&utm_source=hackernewsletter&utm_medium=email&utm_term=ask_hn　"如何让父母安全上网")
+
+### 你有个人知识库吗？
+
+俗话说：“好记星不如烂笔头”。完全凭靠大脑是记不住所以知识的，你有是如何记录你所学到知识的？
+
+链接：[你有个人知识库吗](https://news.ycombinator.com/item?id=20007108&utm_source=hackernewsletter&utm_medium=email&utm_term=ask_hn　"你有个人知识库吗")
 
