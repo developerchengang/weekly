@@ -45,6 +45,50 @@ KOIN实用轻量级依赖注入框架
 
 链接：[Koin发布2.0版本](https://medium.com/koin-developers/ready-for-koin-2-0-2722ab59cac3 "Koin发布2.0版本")
 
+### W3C和WHATWG携手合作，共同推进开放的WEB平台
+
+W3C和WHATWG刚签署了一项协议，合作开发单一版本的HTML和DOM规范。认为两个不同的HTML和DOM规范对社区有害。
+
+链接：[W3C和WHATWG携手合作，共同推进开放的WEB平台](https://www.w3.org/blog/2019/05/w3c-and-whatwg-to-work-together-to-advance-the-open-web-platform/ "W3C和WHATWG携手合作，共同推进开放的WEB平台")
+
+### Firefox使用AV1解码器
+
+AV1可以在不降低网络使用率的情况下提供高质量的视频体验，提高我们在互联网上观看视频体验
+
+链接：[Firefox使用AV1解码器](https://hacks.mozilla.org/2019/05/firefox-brings-you-smooth-video-playback-with-the-worlds-fastest-av1-decoder/ "Firefox使用AV1解码器")
+
+## 文章
+
+### 被遗忘的Web浏览器
+
+一段有趣的互联网历史。很多人认为Netscape是世界上第一个Web浏览器，20世纪90年代早期在它前面已经有很多浏览器。
+
+链接：[被遗忘的Web浏览器](https://arstechnica.com/information-technology/2019/05/before-netscape-forgotten-web-browsers-of-the-early-1990s/ "被遗忘的Web浏览器")
+
+### 2019互联网健康报告
+
+Mozilla2019年研究五个问题对互联网健康的报告，包括：安全吗？有多开放？谁受欢迎？谁能成功？谁控制它？它还关注人工智能，城市的力量以及我们如何重新思考数字广告
+
+链接：[2019互联网健康报告](https://internethealthreport.org/2019/ "2019互联网健康报告")
+
+### 夜间模式
+
+ios和android两大系统都先后宣布支持夜间模式。夜间模式不是越黑越好，总之这是一篇很好教你如何让你的app更好的适配夜间模式的教程。
+
+链接：[夜间模式](https://medium.com/by-digiti/the-future-is-dark-8c3bdadf9fdc?sk=22e43184d9f5b095c0971d9f6add473f "夜间模式")
+
+### 电子邮件开发和设计
+
+电子邮件开发和设计并不容易，因为电子邮件客户端供应商并不像Web浏览器供应商实施新标准那样进步。随着更多移动设备和电子邮件客户端的推出，在构建HTML电子邮件时需要处理更多限制。本文提供了构建和发送电子邮件的一些见解。
+
+链接：[电子邮件开发和设计](https://medium.com/@andrewlaurentiu/html-emails-4de656a6b7ef "电子邮件开发和设计")
+
+### 10可用性启发式应用于视频游戏
+
+我觉得这篇文章启发也适用于其他平台开发。比如：系统应始终在合理的时间内通过适当的反馈向用户通知正在发生的事情。系统应该使用用户熟悉的单词，短语和概念来说明用户的语言，而不是面向系统的术语。
+
+链接：[10可用性启发式应用于视频游戏](https://www.nngroup.com/articles/usability-heuristics-applied-video-games/ "电子邮件开发和设计")
+
 ## 教程
 
 ### Kotlin教程
@@ -66,6 +110,10 @@ KOIN实用轻量级依赖注入框架
 关于React Hooks基础知识的简短教程
 
 链接：[React hooks](https://github.com/httpJunkie/telerik-blogs/blob/master/kendoreact-tip-of-the-day-frontend-focus.md "React hooks")
+
+这里还有一段F8大会关于Hooks视频介绍
+
+链接：[React hooks](https://developers.facebook.com/videos/2019/intro-to-react-hooks/?pix=yb_0_0 "React hooks")
 
 ### 网页排版
 
@@ -123,9 +171,44 @@ Vim编辑器移植到WebAssembly
 
 链接：[SQLGate](https://www.sqlgate.com/ "SQLGate")
 
-### URL生成图表
+### QuickChart
 
 单个URL生成图表
 
-链接：[URL生成图表](https://quickchart.io/ "URL生成图表")
+链接：[QuickChart](https://quickchart.io/ "QuickChart")
 
+### Ikonate
+
+完全可定制和可访问的矢量图标
+
+链接：[Ikonate](https://www.ikonate.com/ "Ikonate")
+
+### ElGrapho
+
+<img src="https://raw.githubusercontent.com/ericdrowell/ElGrapho/master/img/elgrapho-examples.png"/>
+
+El Grapho是一个高性能的WebGL图形数据可视化引擎。可以在任何浏览器中支持数百万个交互式节点
+
+链接：[ElGrapho](https://github.com/ericdrowell/ElGrapho "ElGrapho")
+
+### fabulous
+
+<img src="https://camo.githubusercontent.com/12e05ae80ab82bd927d5c2b131f0bf7284925591/68747470733a2f2f616666656374696f6e6174652d626f6f74682d3130613166342e6e65746c6966792e636f6d2f62616e6e65722e706e67"/>
+
+在Visual Studio Code中引入了CSS属性侧边栏。
+
+链接：[fabulous](https://github.com/Raathigesh/fabulous?utm_source=CSS-Weekly&utm_campaign=Issue-365&utm_medium=email "fabulous")
+
+### Overflow
+
+<img src="https://cdn-images-1.medium.com/max/2400/1*DM-fjMAImOp9JabrTxYklw.gif"/>
+
+专为计师量身定制的用户流程图工具
+
+链接：[Overflow](https://blog.overflow.io/welcome-overflow-1-0-b4a23bcbb2f9 "Overflow")
+
+### Fontanello
+
+适用于Google Chrome和Firefox的浏览器插件，可通过右键单击来显示文本的基本布局样式。
+
+链接：[Fontanello](https://fontanello.oktavilla.se/ "Fontanello")
