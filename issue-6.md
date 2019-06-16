@@ -3,7 +3,7 @@
 
 ### 解码JPEG
 
-JPEG图片在我们的数字生活中无处不在，你可以将图片发送给朋友而不必担心他们正在使用什么设备，浏览器或操作系统，但事情并非如此。20世纪80年代早期，计算机可以存储和显示数字图片，但是您不能将图片从一台计算机发送到另一台计算机。
+JPEG图片在我们的数字生活中无处不在，你可以将图片发送给朋友而不必关心他们正在使用什么设备，浏览器或操作系统，但事情并非如此。20世纪80年代早期，计算机就可以存储和显示数字图片，但是您不能将图片从一台计算机发送到另一台计算机。
 
 为了解决这个问题，联合图像专家组（JPEG）一个来自世界各地的专家委员会，成立于1986年，是ISO（国际标准化组织）和IEC（国际电工委员会）的共同努力 - 两个国际标准组织，总部设在瑞士日内瓦。
 
@@ -14,6 +14,8 @@ JPEG在1992年创建了JPEG，这是数字图像压缩的标准。任何使用�
 链接：[解码JPEG](https://parametric.press/issue-01/unraveling-the-jpeg/?utm_source=CSS-Weekly&utm_campaign=Issue-367&utm_medium=email "解码JPEG")
 
 ### 最后苏联公民
+
+<img src="http://5b0988e595225.cdn.sohucs.com/images/20190611/a13c776b70514424a3f75bd0367ff232.jpeg" />
 
 1991年苏联分裂成15个独立国家，克里卡列夫在距地球350公里的和平号空间站被告知他无法返回家园，因为承诺将他带回家的国家已不复存在。因此他的绰号被称为“苏联的最后一位公民”。
 
@@ -27,15 +29,9 @@ JPEG在1992年创建了JPEG，这是数字图像压缩的标准。任何使用�
 
 ### 广告拦截
 
-广告拦截插件很受欢迎。然而，似乎是一个鸡生蛋的事。对消费者来说不被广告打扰是好事。如果没有网站就没有动力创作更好的内容。
+广告拦截插件很受欢迎。然而，似乎是一个鸡生蛋的事。对消费者来说不被广告打扰是好事。但是如果网站没有收入就没有动力创作更好的内容。
 
 链接：[广告拦截](https://meiert.com/en/blog/no-ad-blockers/?utm_source=Responsive+Design+Weekly&utm_campaign=1d2bfa34e8-RWD_Newsletter_363&utm_medium=email&utm_term=0_df65b6d7c8-1d2bfa34e8-59181885 "广告拦截")
-
-### 论包装管理的经济学
-
-JSConfEU的CJ Silverio的演讲文章
-
-链接：[论包装管理的经济学](https://github.com/ceejbot/economics-of-package-management/blob/master/essay.md "论包装管理的经济学")
 
 ### 被低估的软件工程技能：写作
 
@@ -65,7 +61,7 @@ JSConfEU的CJ Silverio的演讲文章
 
 ### Debug工具
 
-工欲善其事，必先利其器。调试是软件开发过程中最重要的部分之一。为了向用户提供高质量的产品，我们应该快速，及时地发现和修复错误。这时一系列关于Debug的文章。
+工欲善其事，必先利其器。调试是软件开发过程中最重要的部分之一。为了向用户提供高质量的产品，我们可以快速，及时地发现和修复错误。这时一系列关于Debug的文章。
 
 链接：[Debug工具](https://proandroiddev.com/android-debug-tools-a403a3f5bae8 "Debug工具")
 
@@ -85,7 +81,7 @@ JSConfEU的CJ Silverio的演讲文章
 
 ### KEEP-87
 
-KEEP-87是什么？它能为Kotin带来哪些变化？本文详细描述KEEP-87通过它解决了Kotin当前面临的一些问题。
+KEEP-87是什么？它能为Kotin带来哪些变化？本文详细描述KEEP-87，通过它解决了Kotin当前面临的一些问题。
 
 链接：[KEEP-87](https://quickbirdstudios.com/blog/keep-87-typeclasses-kotlin/ "KEEP-87")
 
