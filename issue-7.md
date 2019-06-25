@@ -19,7 +19,7 @@
 
 记住一句话，你写的代码是不可靠的。必须测试，测试，再测试。
 
-#### 不要麻木追求新技术
+#### 不要盲目追求新技术
 
 新技术很好，但不要随意将新技术引进到项目当中。可以先了解学习新技术，然后再看它是否适合应用到项目中。
 
@@ -49,7 +49,7 @@
 
 **我们在某些方面仍处于初级阶段**。最后很重要，无论你有多少年工作经验，仍然有一些你不太了解的地方。承认你不知道的是填补这一空白并从更有经验的人。
 
-## 文章
+## 新闻
 
 ### Firefox将推出付费版
 
@@ -115,7 +115,7 @@ web组件也有许多缺点。例如，它们许多技术限制，并且容易�
 
 将设计系统连接与开发关联。简单说设计师出图，开发者直接复制颜色，文本样式和组件。
 
-链接：[Zeplin](https://blog.zeplin.io/announcing-global-styleguides-connecting-design-systems-to-engineering-65ad22bd0076"Zeplin "Zeplin")
+链接：[Zeplin](https://blog.zeplin.io/announcing-global-styleguides-connecting-design-systems-to-engineering-65ad22bd0076 "Zeplin")
 
 ### Whimsical
 
