@@ -20,10 +20,10 @@
 
 ## 2019
 
-- [开发者简报第七期](issue-7.md)
-- [开发者简报第六期](issue-6.md)
-- [开发者简报第五期](issue-5.md)
-- [开发者简报第四期](issue-4.md)
-- [开发者简报第三期](issue-3.md)
-- [开发者简报第二期](issue-2.md)
-- [开发者简报第一期](issue-1.md)
+- [开发者简报第七期](doc/issue-7.md)
+- [开发者简报第六期](doc/issue-6.md)
+- [开发者简报第五期](doc/issue-5.md)
+- [开发者简报第四期](doc/issue-4.md)
+- [开发者简报第三期](doc/issue-3.md)
+- [开发者简报第二期](doc/issue-2.md)
+- [开发者简报第一期](doc/issue-1.md)
