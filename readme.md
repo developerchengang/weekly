@@ -20,6 +20,7 @@
 
 ## 2019
 
+- [开发者简报第八期](doc/issue-8.md)
 - [开发者简报第七期](doc/issue-7.md)
 - [开发者简报第六期](doc/issue-6.md)
 - [开发者简报第五期](doc/issue-5.md)
