@@ -124,13 +124,11 @@ Crash Course 是 YouTube「一亿美元原创频道计划」频道之一，该�
 
 Apple在WWDC 2019上发布了SwiftUI。一个单一的“跨平台”，“声明性”框架用于构建tvOS，macOS，watchOS和iOS UI。 作者通过教程如何键SwiftUI应用到Web端
 
-### JavaScript优化
+### [JavaScript优化](https://v8.dev/blog/cost-of-javascript-2019 "JavaScript优化")
 
 <img src="https://v8.dev/_img/cost-of-javascript-2019/reddit-js-processing.svg">
 
 虽然2019年了，很多人用上了4G甚至马上快用上5G了。是不是我们就不需要考虑性能优化了呢？
-
-链接：[JavaScript优化](https://v8.dev/blog/cost-of-javascript-2019 "JavaScript优化")
 
 ## 工具
 
@@ -146,19 +144,15 @@ Apple在WWDC 2019上发布了SwiftUI。一个单一的“跨平台”，“声�
 
 ## 视频
 
-### JavaScript历史
+### [JavaScript历史](https://www.youtube.com/watch?v=Sh6lK57Cuk4 "JavaScript历史")
 
 <img src="https://www.tutorialrepublic.com/lib/images/javascript-illustration.png">
 
 一个介绍JavaScript有趣的历史。JavaScript在25年前是如何从一个简单脚本语言，如何演变成世界上使用最广泛的编程语言？
 
-链接：[JavaScript历史](https://www.youtube.com/watch?v=Sh6lK57Cuk4 "JavaScript历史")
-
-### 展望JavaScript未来
+### [展望JavaScript未来](https://www.youtube.com/watch?v=ZrKjgSfpppM "展望JavaScript未来")
 
 JS如何到达今天的位置以及它的未来发展方向，JS是否还会继续成为一门好编程语言？
-
-链接：[展望JavaScript未来](https://www.youtube.com/watch?v=ZrKjgSfpppM "展望JavaScript未来")
 
 ## 非技术
 
