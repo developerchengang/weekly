@@ -1,5 +1,23 @@
 ## 新闻
 
+### [流氓软件感染了2500万台Android设备](https://phys.org/news/2019-07-malicious-apps-infect-million-android.html "流氓软件感染了2500万台Android设备")
+
+<img src="https://3c1703fe8d.site.internapcdn.net/newman/csz/news/800/2019/malware.jpg">
+
+根据网络安全公司Check Point的最新研究，流氓应用程序已被下载到2500万台Android设备上。
+
+这些应用程序（其中大多数是游戏）是由中国团队通过第三方应用程序商店分发的，这些应用程序商店帮助中国开发者在海外推广他们的应用程序。Check Point没有指出公司，因为他们正在与当地执法部门合作。目前美国约有300,000台设备被感染。
+
+该流氓软件能够在手机上感染流行的应用程序，包括WhatsApp和网络浏览器Opera，注入恶意代码并替换原始应用程序，利用更新漏洞。被劫持的应用程序仍然可以正常工作，从而隐藏流氓软件。
+
+凭借用户授予真实应用程序的所有权限，流氓软件能够劫持手机上的其他应用程序，向用户显示广告。Check Point的移动设备分析团队负责人Aviran Hazum表示，这不是一个重大问题，他担心的是安全漏洞可能会被用来劫持银行，购物和其他敏感应用程序。
+
+Childs建议Android用户使用广告拦截软件，在收到新系统版本时更新设备，并且只从Google Play商店下载应用。
+
+“应用程序开发人员无法阻止这种情况，”Hazum说。“必须来自操作系统修复漏洞。”
+
+剑桥大学的研究助理兼讲师丹尼尔托马斯表示，无论用户是否在手机上更新安全补丁，Android设备面临的最大风险之一来自第三方应用商店，而这些商店没有很好的审查。
+
 ### [即使在您拒绝权限后，仍有1千多个Android应用收集数据](https://www.cnet.com/news/more-than-1000-android-apps-harvest-your-data-even-after-you-deny-permissions/ "即使在您拒绝权限后，仍有1千多个Android应用收集数据")
 
 <img src="https://cdn.lynda.com/course/689762/689762-636924116183473779-16x9.jpg"/>
@@ -36,6 +54,20 @@ IBM（纽约证券交易所代码：IBM）和红帽宣布，他们已经完成�
 
 苹果为Mac用户发布了一项静默更新，删除受欢迎的视频会议应用程序Zoom中的易受攻击的组件，该应用程序允许网站在未经他们许可的情况下自动将用户添加到视频通话中。 “即使用户卸载了Zoom，Web服务器仍然安装。Leitschuh说这允许重新安装Zoom应用程序而无需用户操作”。
 
+### [Firefox 68](https://www.cnet.com/news/more-than-1000-android-apps-harvest-your-data-even-after-you-deny-permissions/ "Firefox 68")
+
+<img src="https://www.ghacks.net/wp-content/uploads/2019/06/firefox-new-quantumbar-address-bar.png"/>
+
+版本68现已推出，支持超大整数类型，整网页吸色以及新功能URL栏，如上图。
+
+### [谷歌浏览器可在工具栏上播放/暂停视频](https://gbatemp.net/threads/super-mario-64-has-been-decompiled.542918/ "谷歌浏览器可在工具栏上播放/暂停视频")
+
+<img src="https://zdnet1.cbsistatic.com/hub/i/2019/07/05/4849a016-5a5a-43e5-8117-175ecd93bf3a/d7dedaef542ccfc8b59778732bf0487e/chrome-play-pause-button-toolbar.png">
+
+Chrome浏览器在工具栏添加播放/暂停按钮。该按钮的作用是使用户更容易暂停或恢复当前在浏览器中播放的多媒体内容，无论其来自哪个标签。
+
+这项新功能名为Global Media Controls（GMC），本周已在Chrome Canary发行版中启用。
+
 ## 文章
 
 ### [Erlang十年](https://ferd.ca/ten-years-of-erlang.html "Erlang十年")
@@ -53,6 +85,12 @@ IBM（纽约证券交易所代码：IBM）和红帽宣布，他们已经完成�
 <img src="https://fast.char.gd/public/assets/9707/2019-04-12_14-52-12_c8fa470484be7b69be5daae77a1602c5.png"/>
 
 拥护MacOS的粉丝越来越多，而作者悄悄从MacOS转向到Windows。并列出说明Windows一些优缺点，已证明他的选择的正确的。
+
+### [超级马里奥64被反编译](https://gbatemp.net/threads/super-mario-64-has-been-decompiled.542918/ "超级玛丽奥64被反编译")
+
+<img src="https://upload.wikimedia.org/wikipedia/zh/thumb/0/06/Super_mario_64_boxart.jpg/220px-Super_mario_64_boxart.jpg">
+
+不是普通IDA反编译。他们实际上重写了MIPS程序集的所有函数，并使用原始编译器对其进行编译，调整代码生成相同的输出到vanilla ROM。
 
 ## 教程
 
@@ -72,9 +110,9 @@ IBM（纽约证券交易所代码：IBM）和红帽宣布，他们已经完成�
 
 ### [学习Golang从菜鸟到大神](https://milapneupane.com.np/2019/07/06/learning-golang-from-zero-to-hero/ "学习Golang从菜鸟到大神")
 
-<img src="https://milapneupane.com.np/wp-content/uploads/2019/07/1_30aoNxlSnaYrLhBT0O1lzw.png"/>
+<img src="https://cdn-images-1.medium.com/max/800/1*AUiSG5Gqz8MzaGCvGpckGA.png"/>
 
-未编辑
+适合有一定开发经验的从零学习了解GO语言。
 
 ### [元编程简介](https://www.ibm.com/developerworks/cn/linux/l-metaprog1.html "元编程简介")
 
@@ -113,6 +151,22 @@ Coactive是一个Visual Studio扩展，实时查看团队其他成员正在处�
 
 针对初学者以及有一定开发经验的开发人员关于JavaScript技术难点参考书
 
+### [QCSuper](https://labs.p1sec.com/2019/07/09/presenting-qcsuper-a-tool-for-capturing-your-2g-3g-4g-air-traffic-on-qualcomm-based-phones/ "QCSuper")
+
+<img src="https://labs.p1sec.com/wp-content/uploads/2018/11/a.png">
+
+开源基于Qualcomm可抓取手机2G / 3G / 4G流量的工具，并提供教程说明事先原理
+
+### [QuickJS](https://bellard.org/quickjs/ "QuickJS")
+
+QuickJS是一个小型可嵌入的Javascript引擎。支持 ES2019规范，模块，异步生成器以及代理。
+
+### [Bitwise](https://github.com/mellowcandle/bitwise "Bitwise")
+
+<img src="https://github.com/mellowcandle/bitwise/raw/master/resources/bitwise.gif"/>
+
+Bitwise基于终端的按位计算器。对于低级黑客，内核开发人员和设备驱动程序开发人员来说，它是一个方便的工具。
+
 ## 非编程
 
 ### [任正非接受法国《观点》周刊采访实录](http://xinsheng.huawei.com/cn/index.php?app=forum&mod=Detail&act=index&id=4356433 "任正非接受法国《观点》周刊采访实录")
@@ -132,7 +186,3 @@ Gary Ruvkun是一名生物学家和遗传学教授，“细菌是非常复杂的
 ![培养皿中的细菌培养©Inserm / Latron，Patrice](https://presse.inserm.fr/wp-content/uploads/2019/07/antibio.jpg)
 
 抗生素在上个世纪拯救了许多人的生命，因此它们被认为是当代医学的重大突破之一。不幸的是，越来越多的具有抗药性，如果这种趋势持续蔓延，将给公共卫生带来灾难性威胁。Brice Felden教授及其团队共同创建两种新抗生素，新的抗生素不会产生抗药性。
-
-### [为什么需要三孔插座](http://amasci.com/amateur/whygnd.html "为什么需要三孔插座")
-
-在交流系统中没有“正”和“负”之分，理论上两条线是可互换的。地球是一个巨大的静电发生器。当你打开电灯开关时，一个长长的火花会跳到你的手上，让你失去知觉！
