@@ -8,6 +8,12 @@
 
 本书为电子书，推荐的是译本。相比纸质书翻译版本我认为该电子译版阅读起来不那么吃力。
 
+### [Apollo-11](https://github.com/chrislgarry/Apollo-11 "Apollo-11")
+
+<img src="https://ichef.bbci.co.uk/news/660/cpsprodpb/3A01/production/_105194841_af01f328-fe84-4679-92b9-4f7587beae01.jpg"/>
+
+阿波罗11是人类第一次登陆月球表面，有人在github上发布了阿波罗11号制导计算机（AGC）中指令模块（Comanche055）和登月模块（Luminary099）原始代码。
+
 ## 文章
 
 ### [从零开始构建编译器](https://generalproblem.net/lets_build_a_compiler/01-starting-out/ "从零开始构建编译器")
@@ -98,6 +104,12 @@ Chrome、Firefox插件，将网页变成黑暗模式，缓解眼睛疲劳。
 <img src="https://tabnine.com/static/deep_img_4.png"/>
 
 通过深度学习实现代码自动补全，支持Python, JavaScript, Java, C++, C, PHP, Go, C#, Ruby, Objective-C, Rust, Swift, TypeScript, Haskell, OCaml, Scala, Kotlin, Perl, SQL, HTML, CSS, and Bash编程语言。同时，支持主流代码编辑器。
+
+### [MS Paint](https://github.com/MSPaintIDE/MSPaintIDE "MS Paint")
+
+<img src="https://camo.githubusercontent.com/8b5f609dfffa096c6bdcc12287340a10f61fd11c/68747470733a2f2f6d732d7061696e742d692e64652f696d616765732f4c6f676f2d4865616465722e706e67"/>
+
+MS Paint是Windows下的绘画工具，作者把MS Paint加入代码编辑功能，目前支持Java，Python，JavaScript和Go计划今后支持更多语言，支持Git工具，用于在IDE中管理项目。
 
 ## 非技术
 
