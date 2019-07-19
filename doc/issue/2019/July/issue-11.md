@@ -40,9 +40,23 @@ C和C++规范（没有详述说明）未初始化的内存是“不确定的”�
 - 在计算机世界，很难衡量项目进展的正确时间。一些大教堂花了一个世纪才完成。你能评估一个程序真正需要多长时间吗？
 - 如果愿意花5年的时间学习一门编程语言，你可能会精通该编程语言。问题是你愿意全身投入5年去认真学习吗？
 
+### [我如何破解任何Instagram帐户](https://thezerohack.com/hack-any-instagram#articlescroll "我如何破解任何Instagram帐户")
+
+这篇文章讲的是关于作者如何在Instagram上发现一个漏洞，允许在未经许可的情况下破解任何Instagram帐户。Facebook和Instagram安全团队解决了这个问题，并奖励了作者3万美元。
+
+### [构建新的Twitter.com](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2019/buildingthenewtwitter.html "构建新的Twitter.com")
+
+<img src="https://blog.twitter.com/content/dam/blog-twitter/engineering/en_us/infrastructure/2019/delight/Twitter-Web-Light.png.img.fullhd.medium.png"/>
+
+Twitter官方技术团队计划在接下来的几周内，我分享一系列博客文章，探讨新网站架构设计思想，以及如何为全平台构建响应式体验。
+
+### [著名的程序员一天中在什么时候工作](https://ivan.bessarabov.com/blog/famous-programmers-work-time "著名的程序员一天中在什么时候工作")
+
+作者通过git提交日志分析著名程序员在一天内什么时候处于工作状态。其中Linus Torvalds一般在白天工作，晚上很少提交代码。
+
 ## 教程
 
-### [从Java到Kotlin，一堂课时间](https://github.com/darkreader/darkreader "从Java到Kotlin，一堂课时间")
+### [从Java到Kotlin，一堂课时间](https://clmirror.storage.googleapis.com/codelabs/java-to-kotlin-zh/index.html "从Java到Kotlin，一堂课时间")
 
 <img src="https://mmbiz.qpic.cn/mmbiz_jpg/rFWVXwibLGtx1Ivhjr05MRW58fPkFPRq7D3kwweWLDVFPmWdXvzp958niclT7ibStBEE2PxMHlAiaPlEvSdNpbZicsg/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1"/>
 
@@ -72,7 +86,7 @@ google为中国开发者们准备的kotlin中文课程，前提是你已经熟�
 
 ## 工具&资源
 
-### [编程资源](https://github.com/darkreader/darkreader "编程资源")
+### [编程资源](https://github.com/dipakkr/A-to-Z-Resources-for-Students "编程资源")
 
 <img src="https://github.com/dipakkr/A-to-Z-Resources-for-Students/raw/master/res/frontb.png"/>
 
@@ -110,6 +124,10 @@ Chrome、Firefox插件，将网页变成黑暗模式，缓解眼睛疲劳。
 <img src="https://camo.githubusercontent.com/8b5f609dfffa096c6bdcc12287340a10f61fd11c/68747470733a2f2f6d732d7061696e742d692e64652f696d616765732f4c6f676f2d4865616465722e706e67"/>
 
 MS Paint是Windows下的绘画工具，作者把MS Paint加入代码编辑功能，目前支持Java，Python，JavaScript和Go计划今后支持更多语言，支持Git工具，用于在IDE中管理项目。
+
+### [动态语言设计模式](http://norvig.com/design-patterns/design-patterns.pdf "动态语言设计模式")
+
+关于动态语言设计模式PDF电子书
 
 ## 非技术
 
