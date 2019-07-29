@@ -2,7 +2,8 @@
 
 收录本人每周阅读值得推荐的文章。内容主要来自以下网站：
 
-- [https://medium.com/](https://medium.com/)
+- [github](https://github.com/)
+- [medium](https://medium.com/)
 - [reddit](https://www.reddit.com/)
 - [Hacker News](https://news.ycombinator.com/)
 - [Hacker Newsletter](https://hackernewsletter.com/)
