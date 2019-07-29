@@ -10,7 +10,7 @@
 - [Android weekly](https://androidweekly.net/)
 - [Flutter weekly](https://flutterweekly.net/)
 - [UX Design Weekly](https://uxdesignweekly.com/)
-- [CSS Animation Weekly](https://mail.google.com/mail/u/4/#inbox/FMfcgxwChSGPtMJHHTNqmCLvMwXVVfdJ)
+- [CSS Animation Weekly](https://cssanimation.rocks/weekly/)
 - [Sidebar](https://sidebar.io/)
 - [Responsive Design Weekly](http://responsivedesignweekly.com/)
 - [Web Design Weekly](https://web-design-weekly.com/)
@@ -22,6 +22,8 @@
 
 ## 简报
 
+- [开发者简报第十二期](doc/issue/2019/July/issue-12.md)
+- [开发者简报第十一期](doc/issue/2019/July/issue-11.md)
 - [开发者简报第十期](doc/issue/2019/July/issue-10.md)
 - [开发者简报第九期](doc/issue/2019/July/issue-9.md)
 - [开发者简报第八期](doc/issue/2019/June/issue-8.md)
