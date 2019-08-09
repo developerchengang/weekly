@@ -23,19 +23,20 @@
 
 ## 简报
 
-- [开发者简报第十二期](doc/issue/2019/August/issue-13.md)
-- [开发者简报第十二期](doc/issue/2019/July/issue-12.md)
-- [开发者简报第十一期](doc/issue/2019/July/issue-11.md)
-- [开发者简报第十期](doc/issue/2019/July/issue-10.md)
-- [开发者简报第九期](doc/issue/2019/July/issue-9.md)
-- [开发者简报第八期](doc/issue/2019/June/issue-8.md)
-- [开发者简报第七期](doc/issue/2019/June/issue-7.md)
-- [开发者简报第六期](doc/issue/2019/June/issue-6.md)
-- [开发者简报第五期](doc/issue/2019/June/issue-5.md)
-- [开发者简报第四期](doc/issue/2019/June/issue-4.md)
-- [开发者简报第三期](doc/issue/2019/April/issue-3.md)
-- [开发者简报第二期](doc/issue/2019/April/issue-2.md)
-- [开发者简报第一期](doc/issue/2019/April/issue-1.md)
+- [开发者简报：第十四期](doc/issue/2019/August/issue-14.md)
+- [开发者简报：第十三期](doc/issue/2019/August/issue-13.md)
+- [开发者简报：第十二期](doc/issue/2019/July/issue-12.md)
+- [开发者简报：第十一期](doc/issue/2019/July/issue-11.md)
+- [开发者简报：第十期](doc/issue/2019/July/issue-10.md)
+- [开发者简报：第九期](doc/issue/2019/July/issue-9.md)
+- [开发者简报：第八期](doc/issue/2019/June/issue-8.md)
+- [开发者简报：第七期](doc/issue/2019/June/issue-7.md)
+- [开发者简报：第六期](doc/issue/2019/June/issue-6.md)
+- [开发者简报：第五期](doc/issue/2019/June/issue-5.md)
+- [开发者简报：第四期](doc/issue/2019/June/issue-4.md)
+- [开发者简报：第三期](doc/issue/2019/April/issue-3.md)
+- [开发者简报：第二期](doc/issue/2019/April/issue-2.md)
+- [开发者简报：第一期](doc/issue/2019/April/issue-1.md)
 
 ## 文章
 
