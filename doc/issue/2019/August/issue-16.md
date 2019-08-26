@@ -16,13 +16,13 @@ Visual Studio Code（VS Code）近年来获得了爆炸式增长，成为广大�
 
 ## 新闻摘要
 
-### [Microsoft Edge 发布Beta版](https://blogs.windows.com/windowsexperience/2019/08/20/introducing-microsoft-edge-beta-be-one-of-the-first-to-try-it-now/ "Microsoft Edge 发布Beta版")
+### [Microsoft Edge 发布Beta版](https://blogs.windows.com/windowsexperience/2019/08/20/introducing-microsoft-edge-beta-be-one-of-the-first-to-try-it-now/)
 
 <img src="https://46c4ts1tskv22sdav81j9c69-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/2/2019/08/4cac7883632a1fb69454aba7b0b0c3ac-1024x576.png"/>
 
 现在支持所以Windows和macOS系统。内置的Bing搜索功能，同时兼容Internet Explorer的模式。
 
-### [React DevTools 4发布](https://reactjs.org/blog/2019/08/15/new-react-devtools.html "React DevTools 4发布")
+### [React DevTools 4发布](https://reactjs.org/blog/2019/08/15/new-react-devtools.html)
 
 <img src="https://reactjs.org/static/devtools-v4-screenshot-9552e88d7605ef4e547af89096a9225d-b9896.png"/>
 
@@ -39,15 +39,15 @@ Visual Studio Code（VS Code）近年来获得了爆炸式增长，成为广大�
 - [第三方JavaScript性能](https://web.dev/third-party-javascript "JavaScript的测试最佳实践") —— 了解第三方JavaScript脚本如何影响性能，以及如何防止它降低网站速度
 - [识别缓慢的第三方JavaScript](https://web.dev/identify-slow-third-party-javascript "识别缓慢的第三方JavaScript") —— 使用Lighthouse和Chrome DevTools提高你的侦查技能
 - [有效加载第三方JavaScript](https://web.dev/efficiently-load-third-party-javascript "有效加载第三方JavaScript") —— 介绍4种方式来优化加载速度
-- [优化第三方JavaScript Codelab](https://web.dev/efficiently-load-third-party-javascript "优化第三方JavaScript Codelab") —— 最后，实践是实现真理唯一标准
+- [优化第三方JavaScript Codelab](https://web.dev/codelab-optimize-third-party-javascript/ "优化第三方JavaScript Codelab") —— 最后，实践是实现真理唯一标准
 
-### [Kotlin协程：高级版](https://www.raywenderlich.com/2117501-kotlin-coroutines-tutorial-for-android-advanced "Kotlin协程：高级版")
+### [Kotlin协程：高级版](https://www.raywenderlich.com/2117501-kotlin-coroutines-tutorial-for-android-advanced)
 
 <img src="https://koenig-media.raywenderlich.com/uploads/2019/07/CoroutineContext-feature.png"/>
 
 通过Android演示应用程序，替换异步编程（如Thread）来更深入地了解Kotlin协程
 
-### [5个JavaScript解构的有趣用途](https://dmitripavlutin.com/5-interesting-uses-javascript-destructuring/ "5个JavaScript解构的有趣用途")
+### [5个JavaScript解构的有趣用途](https://dmitripavlutin.com/5-interesting-uses-javascript-destructuring/)
 
 <img src="https://www.html.cn/newimg88/2018/10/js-tricks.jpg"/>
 
@@ -55,19 +55,19 @@ Visual Studio Code（VS Code）近年来获得了爆炸式增长，成为广大�
 
 ## 工具&资源
 
-### [全栈开发人员的最佳VS代码扩展列表](https://www.jonrcorbin.com/the-best-vs-code-extension-list-for-full-stack-developers/ "全栈开发人员的最佳VS代码扩展列表")
+### [全栈开发人员的最佳VS代码扩展列表](https://www.jonrcorbin.com/the-best-vs-code-extension-list-for-full-stack-developers/)
 
 <img src="https://i0.wp.com/www.jonrcorbin.com/wp-content/uploads/2019/08/fullstack_vscode.png?w=800&ssl=1"/>
 
 这些扩展分为文档，版本控制和常规维护；服务器开发；客户端开发；可读性
 
-### [JavaScript的测试最佳实践](https://github.com/goldbergyoni/javascript-testing-best-practices "JavaScript的测试最佳实践")
+### [JavaScript的测试最佳实践](https://github.com/goldbergyoni/javascript-testing-best-practices)
 
 <img src="https://github.com/goldbergyoni/javascript-testing-best-practices/raw/master/assets/jtbp-header-blue.png"/>
 
 全面而详尽的JavaScript和Node.js测试最佳实践
 
-### [为设计师提供10款最佳Chrome扩展](https://uxdesign.cc/10-best-chrome-extensions-for-designers-a76540b93836 "为设计师提供10款最佳Chrome扩展")
+### [为设计师提供10款最佳Chrome扩展](https://uxdesign.cc/10-best-chrome-extensions-for-designers-a76540b93836)
 
 <img src="https://miro.medium.com/max/3400/1*6Cq5sNQKUvT1oKIslU9WvQ.png"/>
 
