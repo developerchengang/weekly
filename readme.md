@@ -23,6 +23,7 @@
 
 ## 简报
 
+- [开发者简报：第十六期](doc/issue/2019/August/issue-16.md)
 - [开发者简报：第十五期](doc/issue/2019/August/issue-15.md)
 - [开发者简报：第十四期](doc/issue/2019/August/issue-14.md)
 - [开发者简报：第十三期](doc/issue/2019/August/issue-13.md)
