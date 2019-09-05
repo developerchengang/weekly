@@ -66,7 +66,7 @@ WCAG并没有严格要求使用带下划线的链接，但推荐使用。链接�
 
 ![操作手机三种主要方式](https://res.cloudinary.com/indysigner/image/fetch/f_auto,q_auto/w_2000/https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/df58fba6-21c8-4b45-956d-57b9064279da/phone-grip-bottom-navigation-pattern-2.jpg)
 
-当手机屏幕小的时候，单手可以覆盖整个屏幕触控范围，现如今变的越来越困难。**我们该如何解决这个问题**？
+当手机屏幕小的时候，单手可以覆盖整个屏幕触控范围，现如今变得越来越困难。**我们该如何解决这个问题**？
 
 #### 底部导航模式
 
@@ -138,5 +138,7 @@ WCAG并没有严格要求使用带下划线的链接，但推荐使用。链接�
 来自微博：[左耳朵耗子](https://weibo.com/haoel?from=feed&loc=nickname)
 
 【Stackoverflow第一定理】：只需要检视绿勾和旁边的代码，其它的东西都可以忽略！
+
 【Stackoverflow第二定理】：如果你选用的技术在Stackovflow上找不答案，那么你一定要换个技术重写你的项目！
+
 【Stackoverflow第三定理】：只要你遇上的问题在Stackoverflow找不到答案，那么，在Github上的相关repo上一定会至少有一个长期未能解决的issuse！这个issue 要么是长期没有回应，要么就是被关联了各种乱七八糟无关的PR和其他的issue！
